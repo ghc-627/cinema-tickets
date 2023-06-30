@@ -1,0 +1,4 @@
+.vscode
+*.class
+maven-status
+surefire-reports
